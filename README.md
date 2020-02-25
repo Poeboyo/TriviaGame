@@ -1,6 +1,7 @@
 # TriviaGame
 
 Within this game, you will be given 10 Questions to answer based off of The Legend of Zelda: Majora's Mask
+https://poeboyo.github.io/TriviaGame/
 
 ## How it's made
 
